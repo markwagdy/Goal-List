@@ -42,8 +42,6 @@ xcuserdata
 */fastlane/screenshots/**/*.png
 */fastlane/test_output
 
-# Bundle artifact
-=======
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
 # dependencies
